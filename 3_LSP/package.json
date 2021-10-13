@@ -1,0 +1,24 @@
+{
+  "name": "design-patterns",
+  "version": "0.1.0",
+  "description": "Design Patterns with TypeScript - [Course](https://www.udemy.com/course/curso-design-patterns-typescript/)",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouzaVitoria/design-patterns.git"
+  },
+  "keywords": [],
+  "author": "Vitória Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SouzaVitoria/design-patterns/issues"
+  },
+  "homepage": "https://github.com/SouzaVitoria/design-patterns#readme",
+  "devDependencies": {
+    "@types/node": "^16.10.2",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.3"
+  }
+}
